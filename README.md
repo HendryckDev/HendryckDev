@@ -1,7 +1,7 @@
 # Welcome, i am Hendryck!
 
 <div>
-  <a href="https://beacons.ai/HendryckDev">
+  <a href="https://github.com/HendryckDev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HendryckDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendryckDev&layout=compact&langs+count=16&theme=radical"/>
 </div>
