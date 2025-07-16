@@ -26,3 +26,10 @@
   <a href="https://www.behance.net/hendryck-nickolas" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg" target="_blank"></a>
   <a href="mailto:contatohendrycklima@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lauluah/lauluah/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lauluah/lauluah/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.comlauluah/lauluah/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
